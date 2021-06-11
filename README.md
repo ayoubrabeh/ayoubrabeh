@@ -11,5 +11,5 @@ My name is Ayoub RABEH and I'm the CIO & cofounder of CYNOIA. You can find me on
 [1]: https://www.facebook.com/ayoub.dark/
 [2]: https://github.com/ayoubrabeh
 [3]: https://www.linkedin.com/in/ayoub-rabeh/
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-[1.2]: http://simpleicon.com/wp-content/uploads/facebook-2.png
+[3.2]: https://cynoia.com/img/in16.png (LinkedIn icon without padding)
+[1.2]: https://cynoia.com/img/fb16.png
