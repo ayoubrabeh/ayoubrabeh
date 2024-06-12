@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Ayoub RABEH and I'm the CIO & cofounder of CYNOIA. You can find me on [![Facebook][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Ayoub RABEH and I'm the CTO & cofounder of CYNOIA. You can find me on [![Facebook][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## &#x1f4c8; GitHub Stats
 
